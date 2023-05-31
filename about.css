@@ -1,0 +1,11 @@
+
+    img {
+      width: 300px; /* Ancho deseado */
+      height: auto; /* Altura ajustada automáticamente */
+    }
+ .img-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}
